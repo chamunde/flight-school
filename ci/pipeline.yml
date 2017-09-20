@@ -2,7 +2,7 @@ resources:
 - name: flight-school
   type: git
   source:
-    uri: https://github.com/mashukoor/flight-schoo
+    uri: https://github.com/mashukoor/flight-school
     branch: master
 
 jobs:
