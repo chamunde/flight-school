@@ -4,9 +4,9 @@ resources:
   source:
     uri: https://github.com/mashukoor/flight-school
     branch: master
--name: staging-app
- type: cf
- source:
+- name: staging-app
+  type: cf
+  source:
    api: https://login.run.pivotal.io
    username: shukoora@vedams.com
    password: Aabbccdd11@
